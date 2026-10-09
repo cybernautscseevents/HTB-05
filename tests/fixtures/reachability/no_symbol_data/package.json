@@ -1,0 +1,9 @@
+{
+  "name": "no-symbol-data-app",
+  "version": "1.0.0",
+  "description": "Fixture demonstrating affected dependency where advisory has no vulnerable symbol data",
+  "main": "src/cli.js",
+  "dependencies": {
+    "minimist": "0.0.8"
+  }
+}

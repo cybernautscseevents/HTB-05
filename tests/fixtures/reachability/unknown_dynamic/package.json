@@ -1,0 +1,10 @@
+{
+  "name": "unknown-dynamic-app",
+  "version": "1.0.0",
+  "description": "Fixture demonstrating dynamic computed property access on package producing UNKNOWN reachability",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "4.17.19"
+  }
+}
